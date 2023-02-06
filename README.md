@@ -1,7 +1,7 @@
 # **HELLO THERE 👋**  
   
 
-### **<div align="center">I'm Harshita, a full-time DevOps Engineer 👨‍💻 working remotely since 2022 🚀</div>**  
+### **<div align="center">I'm Harshita, a full-time DevOps Engineer 👩‍💻 working remotely since 2022 🚀</div>**  
   
 
 - **👩‍💻 I’m currently learning Terraform and Kubernetes**  
